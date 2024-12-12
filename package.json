@@ -50,7 +50,7 @@
         "mongoose": "^6.6.1",
         "nanoid": "^4.0.0",
         "ramda": "^0.28.0",
-        "winston": "^3.7.2"
+        "winston": "^3.17.0"
     },
     "description": ""
 }
